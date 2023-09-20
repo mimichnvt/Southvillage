@@ -16,3 +16,13 @@ span a{
     margin-left: 15px
 }
 
+h1{
+    text-align: center;
+    background-color: rgb(128, 52, 52);
+    color: pink;
+    position: relative;
+    top:200px;
+    font-size: 56px;
+}
+   
+    
