@@ -1,0 +1,18 @@
+body{
+    background-color: pink;
+}
+
+
+header{
+    color:pink;
+    background-color: rgb(0, 183, 255);
+    height:40px;
+    display: flex;
+    align-items: center;
+    
+}
+span a{
+    color: pink;
+    margin-left: 15px
+}
+
