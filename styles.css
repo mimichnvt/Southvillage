@@ -1,11 +1,14 @@
 body{
     background-color: pink;
+    width:100%;
+    padding: 16px 16px;
+
 }
 
 
 header{
     color:pink;
-    background-color: rgb(0, 183, 255);
+    background-color: rgb(83, 132, 151) ;
     height:40px;
     display: flex;
     align-items: center;
@@ -16,13 +19,51 @@ span a{
     margin-left: 15px
 }
 
+
+
 h1{
     text-align: center;
     background-color: rgb(128, 52, 52);
     color: pink;
-    position: relative;
-    top:200px;
     font-size: 56px;
+
 }
-   
-    
+.h1-container{
+    padding-top: 150px;
+}
+
+.info{
+    padding-top:150px;
+}
+.image-container{
+    padding-top:50px;
+}
+.image-container img{
+    height:200px;
+    width: 31%;
+    margin-right: 24px;
+    flex-grow: 1;
+       
+}
+.sub-title{
+    background-color: rgb(83, 132, 151) ;
+    height: 200px;
+    margin-top: 80px;
+    padding: 30px 16px
+}
+#plans{
+    color:yellow;
+    font-size:32px
+}
+#author{
+    color: yellow;
+}
+
+.join img{
+    height:600px;
+    width: 50%;
+}
+.join{
+    text-align: center;
+    padding-top:60px
+}
