@@ -6,7 +6,7 @@ body{
 }
 
 
-header{
+header, footer{
     color:pink;
     background-color: rgb(83, 132, 151) ;
     height:40px;
@@ -67,3 +67,4 @@ h1{
     text-align: center;
     padding-top:60px
 }
+
